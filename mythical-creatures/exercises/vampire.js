@@ -37,8 +37,3 @@ function findBatLovers(vampires) {
   });
 }
 module.exports = { Vampire, inquirePlace, findBatLovers }
-  // createVampire,
-  // drink,
-  // findBatLovers,
-  // encounterDeliciousVictim,
-  // inquirePlace
