@@ -136,6 +136,6 @@ describe('Vampire', function() {
 
     var batLovers = findBatLovers(vampires);
 
-    assert.deepEqual(batLovers, [javi, brittany]);
+    assert.deepEqual(batLovers, [javi, brittany ]);
   });
 });
